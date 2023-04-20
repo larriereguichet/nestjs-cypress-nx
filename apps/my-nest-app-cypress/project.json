@@ -8,7 +8,6 @@
       "executor": "@nrwl/cypress:cypress",
       "options": {
         "cypressConfig": "apps/my-nest-app-cypress/cypress.config.ts",
-        "baseUrl": "http://localhost:3333",
         "testingType": "e2e"
       }
     },
